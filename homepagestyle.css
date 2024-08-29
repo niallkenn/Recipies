@@ -1,9 +1,6 @@
-#pagetitle {
-    text-align: center;
+body {
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: rgb(35, 35, 35);
+    background-color: aliceblue;
 }
-
-.links {
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-} 
